@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScottGeek (C. Scott Edwards)
-- 👀 I’m interested in Infrastructure as Code, Azure, Blazor, .Net 6/7, EF - So lots of matters in Microsoft Technology
+- 👀 I’m interested in Infrastructure as Code, Azure, Blazor, .Net 8 >, EF - So lots of matters in Microsoft Technology
 - 🌱 I’m currently learning Bicep (IAC arm template generating lang), and still tracking with Blazor.
 
 
